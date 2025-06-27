@@ -21436,3 +21436,289 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.06.27-19.00.48:725][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2025.06.27-19.00.48:740][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
 [2025.06.27-19.00.50:720][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.06.27-19.03.24:567][337]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2375.217529
+[2025.06.27-19.03.25:565][340]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.27-19.03.25:565][340]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2375.883301, Update Interval: 354.620209
+[2025.06.27-19.04.10:082][792]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.06.27-19.04.10:089][792]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.06.27-19.04.10:107][794]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.06.27-19.04.13:534][205]LogContentBrowser: Attempting asset rename: NewMaterial -> M_SolidColor
+[2025.06.27-19.04.13:536][205]LogContentBrowser: End creating deferred item NewMaterial
+[2025.06.27-19.04.14:157][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.04.14:185][277]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Basic/M_SolidColor] ([1] browsable assets)...
+[2025.06.27-19.04.14:209][277]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Basic/M_SolidColor.M_SolidColor]
+[2025.06.27-19.04.14:210][277]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor]
+[2025.06.27-19.04.14:210][277]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor
+[2025.06.27-19.04.14:210][277]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor9B7DF2E7492C75796C27EAA722BBAAE9.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor.uasset'
+[2025.06.27-19.04.14:218][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.288 ms (total: 2.23 sec)
+[2025.06.27-19.04.14:242][277]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.04.14:243][277]LogContentValidation: Enabled validators:
+[2025.06.27-19.04.14:243][277]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.04.14:243][277]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.04.14:243][277]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.04.14:243][277]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor.M_SolidColor
+[2025.06.27-19.04.14:243][277]AssetCheck: /Game/Materials/Basic/M_SolidColor Validating asset
+[2025.06.27-19.04.15:148][385]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Basic/M_SolidColor.M_SolidColor
+[2025.06.27-19.04.15:240][385]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.15:240][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.15:240][385]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.15:240][385]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Base pass shader: 201 instructions
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.15:313][387]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.21:503][119]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.21:503][119]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.21:503][119]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.21:503][119]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Base pass shader: 201 instructions
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.21:537][121]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.26:724][735]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.26:724][735]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.26:724][735]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.26:724][735]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.28:757][966]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2025.06.27-19.04.28:757][966]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.28:757][966]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.28:757][966]MaterialEditorStats: Shader Count: 3
+[2025.06.27-19.04.28:757][966]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.28:856][978]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.04.28:858][978]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2025.06.27-19.04.28:858][978]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.28:858][978]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.28:858][978]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.28:858][978]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.29:390][ 37]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.29:390][ 37]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.29:390][ 37]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.29:390][ 37]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Base pass shader: 203 instructions
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.29:416][ 40]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.38:540][130]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.38:540][130]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.38:540][130]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.38:540][130]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Base pass shader: 203 instructions
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.38:584][132]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.58:135][876]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.58:135][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.58:135][876]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.58:135][876]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Base pass shader: 203 instructions
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.58:170][878]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.59:532][ 39]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.04.59:532][ 39]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.59:532][ 39]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.04.59:532][ 39]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Base pass shader: 203 instructions
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.04.59:580][ 41]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.05.34:459][349]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.27-19.05.34:468][349]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.05.34:468][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.05.34:468][349]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.05.34:468][349]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.05.34:491][352]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.05.34:491][352]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.05.34:491][352]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.05.34:491][352]MaterialEditorStats: Shader Count: 2
+[2025.06.27-19.05.34:491][352]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.05.36:594][604]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.05.40:156][ 26]LogMaterialEditor: Saving and Compiling material M_SolidColor
+[2025.06.27-19.05.40:208][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.27-19.05.45:207][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.27-19.05.45:262][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.05.45:290][ 26]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Basic/M_SolidColor] ([1] browsable assets)...
+[2025.06.27-19.05.45:299][ 26]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Basic/M_SolidColor.M_SolidColor]
+[2025.06.27-19.05.45:299][ 26]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor]
+[2025.06.27-19.05.45:300][ 26]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor
+[2025.06.27-19.05.45:300][ 26]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor2C42E6CF4B2A31E69691428C1C534ABF.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor.uasset'
+[2025.06.27-19.05.45:310][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.820 ms (total: 2.27 sec)
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: Enabled validators:
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.05.45:333][ 26]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor.M_SolidColor
+[2025.06.27-19.05.45:333][ 26]AssetCheck: /Game/Materials/Basic/M_SolidColor Validating asset
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: MaxSampler: 251 instructions
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Texture samplers: 3/16
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Shader Count: 16
+[2025.06.27-19.05.45:342][ 26]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.05.51:055][683]LogContentBrowser: Attempting asset rename: M_SolidColor -> M_SolidColor_Green
+[2025.06.27-19.05.51:082][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.05.51:111][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Basic/M_SolidColor_Green] ([1] browsable assets)...
+[2025.06.27-19.05.51:111][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor_Green]
+[2025.06.27-19.05.51:111][683]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor_Green
+[2025.06.27-19.05.51:111][683]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor_Green790EED0A45B1611E04F85AB3EE086898.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor_Green.uasset'
+[2025.06.27-19.05.51:121][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 39.408 ms (total: 2.31 sec)
+[2025.06.27-19.05.51:137][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.27-19.05.51:148][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.06.27-19.05.51:160][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.27-19.05.51:183][683]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.05.51:183][683]LogContentValidation: Enabled validators:
+[2025.06.27-19.05.51:183][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.05.51:183][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.05.51:183][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.05.51:183][683]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor_Green.M_SolidColor_Green
+[2025.06.27-19.05.51:183][683]AssetCheck: /Game/Materials/Basic/M_SolidColor_Green Validating asset
+[2025.06.27-19.05.51:710][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.05.51:735][743]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Basic/M_SolidColor_Green] ([1] browsable assets)...
+[2025.06.27-19.05.51:735][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor_Green]
+[2025.06.27-19.05.51:736][743]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor_Green
+[2025.06.27-19.05.51:737][743]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor_Green97DAF22E494DC561BF056F8E8EE78192.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor_Green.uasset'
+[2025.06.27-19.05.51:744][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.682 ms (total: 2.35 sec)
+[2025.06.27-19.05.51:770][743]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.05.51:770][743]LogContentValidation: Enabled validators:
+[2025.06.27-19.05.51:770][743]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.05.51:770][743]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.05.51:770][743]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.05.51:770][743]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor_Green.M_SolidColor_Green
+[2025.06.27-19.05.51:772][743]AssetCheck: /Game/Materials/Basic/M_SolidColor_Green Validating asset
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: ================================================
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Total job queries 346, among them cache hits 163 (47.11%), DDC hits 126 (36.42%), Duplicates 8 (2.31%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Tracking 175 distinct input hashes that result in 165 distinct outputs (94.29%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: RAM used: 5.66 MiB of 1.60 GiB budget. Usage: 0.35%
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Shaders Compiled: 49
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Jobs assigned 49, completed 49 (100%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Average time worker was idle: 412.15 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 1.44 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Job execution time: average 3.33 s, max 5.70 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Job life time (pending + execution): average 3.43 s, max 5.71
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Shader code size: average 38.32 KiB, min 27.629 KiB, max 54.535 KiB
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.86 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.02%
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Average processing rate: 1.41 jobs/sec
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Total thread time: 16.253 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Total thread preprocess time: 4.022 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Percentage time preprocessing: 24.75%
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Effective parallelization: 0.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    3 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    3 times, average 0.38 sec, max 0.40 sec, min 0.37 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 0.38 sec, max 0.38 sec, min 0.38 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 0.37 sec, max 0.42 sec, min 0.30 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.37% of total time (compiled   10 times, average 0.33 sec, max 0.49 sec, min 0.27 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:                                             FDebugViewModePS - 11.81% of total time (compiled    3 times, average 0.64 sec, max 0.64 sec, min 0.64 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.62% of total time (compiled    8 times, average 0.24 sec, max 0.35 sec, min 0.19 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.25% of total time (compiled    3 times, average 0.39 sec, max 0.40 sec, min 0.39 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.10% of total time (compiled    3 times, average 0.38 sec, max 0.40 sec, min 0.37 sec)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: === Material stats ===
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Materials Translated:    155
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: Material Cache Hits: 18 (12%)
+[2025.06.27-19.05.51:886][755]LogShaderCompilers: Display: ================================================
+[2025.06.27-19.05.52:797][853]LogContentBrowser: Deferred new asset file creation: M_SolidColor_Green1
+[2025.06.27-19.05.52:802][853]LogContentBrowser: Creating deferred item: M_SolidColor_Green1
+[2025.06.27-19.05.52:813][854]LogContentBrowser: Renaming the item being created (Deferred Item: M_SolidColor_Green1).
+[2025.06.27-19.05.55:976][231]LogContentBrowser: Attempting asset rename: M_SolidColor_Green1 -> M_SolidColor_REd
+[2025.06.27-19.05.55:978][231]LogContentBrowser: End creating deferred item M_SolidColor_Green1
+[2025.06.27-19.05.59:009][578]LogContentBrowser: Attempting asset rename: M_SolidColor_REd -> M_SolidColor_Red
+[2025.06.27-19.05.59:046][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.06.27-19.05.59:056][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.27-19.05.59:067][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.06.27-19.05.59:082][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.06.27-19.05.59:094][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.27-19.05.59:105][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.06.27-19.05.59:948][671]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Basic/M_SolidColor_Red.M_SolidColor_Red
+[2025.06.27-19.06.00:044][671]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.06.00:044][671]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.00:044][671]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.06.00:044][671]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.06.00:104][673]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.06.06:294][817]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.27-19.06.06:304][817]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.06.06:304][817]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.06:304][817]MaterialEditorStats: Shader Count: 0
+[2025.06.27-19.06.06:304][817]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.06.06:335][821]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.06.06:335][821]MaterialEditorStats: Texture samplers: 0/16
+[2025.06.27-19.06.06:335][821]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.06:335][821]MaterialEditorStats: Shader Count: 2
+[2025.06.27-19.06.06:335][821]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Shader Count: 4
+[2025.06.27-19.06.08:780][ 70]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.06.12:424][ 81]LogMaterialEditor: Saving and Compiling material M_SolidColor_Red
+[2025.06.27-19.06.12:472][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.27-19.06.17:362][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.06.27-19.06.17:433][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.06.17:460][ 81]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Basic/M_SolidColor_Red] ([1] browsable assets)...
+[2025.06.27-19.06.17:578][ 81]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Basic/M_SolidColor_Red.M_SolidColor_Red]
+[2025.06.27-19.06.17:578][ 81]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor_Red]
+[2025.06.27-19.06.17:580][ 81]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor_Red
+[2025.06.27-19.06.17:580][ 81]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor_RedD9FE44264673539FF6500E900F1A001A.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor_Red.uasset'
+[2025.06.27-19.06.17:588][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 155.118 ms (total: 2.50 sec)
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: Enabled validators:
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.06.17:615][ 81]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor_Red.M_SolidColor_Red
+[2025.06.27-19.06.17:615][ 81]AssetCheck: /Game/Materials/Basic/M_SolidColor_Red Validating asset
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Base pass shader: 204 instructions
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Base pass vertex shader: 129 instructions
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: MaxSampler: 251 instructions
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Texture samplers: 3/16
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Shader Count: 16
+[2025.06.27-19.06.17:622][ 81]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.06.27-19.07.15:207][347]LogMaterialEditor: Saving and Compiling material M_SolidColor_Red
+[2025.06.27-19.07.15:211][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.27-19.07.15:236][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Basic/M_SolidColor_Red] ([1] browsable assets)...
+[2025.06.27-19.07.15:236][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Basic/M_SolidColor_Red]
+[2025.06.27-19.07.15:238][347]LogSavePackage: Moving output files for package: /Game/Materials/Basic/M_SolidColor_Red
+[2025.06.27-19.07.15:239][347]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/M_SolidColor_Red1652FA9C484989439112218BD90F5D25.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Materials/Basic/M_SolidColor_Red.uasset'
+[2025.06.27-19.07.15:246][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 36.360 ms (total: 2.54 sec)
+[2025.06.27-19.07.15:275][347]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.27-19.07.15:276][347]LogContentValidation: Enabled validators:
+[2025.06.27-19.07.15:276][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.27-19.07.15:276][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.27-19.07.15:276][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.27-19.07.15:276][347]LogContentValidation: Display: Validating asset /Game/Materials/Basic/M_SolidColor_Red.M_SolidColor_Red
+[2025.06.27-19.07.15:276][347]AssetCheck: /Game/Materials/Basic/M_SolidColor_Red Validating asset
