@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/DevMap.umap",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Blueprints/PlayerCharacter_BP.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Blueprints/GM_Gamemode.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Inputs/IA_MoveForward.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Inputs/IA_CharacterMovement.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Inputs/IA_MoveBackward.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Levels/DevMap.umap",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Inputs/IA_Move.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/UE5 Projects/Templates/FPMovingBase/Content/Inputs/IA_Look.uasset"
+			]
+		}
+	]
+}
