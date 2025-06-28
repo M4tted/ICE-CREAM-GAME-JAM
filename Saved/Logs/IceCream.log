@@ -5916,3 +5916,516 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.06.28-18.47.34:829][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.06.28-18.47.34:829][562]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Gamemode.GM_Gamemode
 [2025.06.28-18.47.34:829][562]AssetCheck: /Game/Blueprints/GM_Gamemode Validating asset
+[2025.06.28-18.51.45:462][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4658.757812
+[2025.06.28-18.51.46:463][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-18.51.46:463][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4659.424805, Update Interval: 353.338409
+[2025.06.28-18.54.25:197][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.06.28-18.54.25:200][327]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.018
+[2025.06.28-18.54.25:200][327]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-18.54.25:235][327]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-18.54.25:235][327]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-18.54.25:241][327]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto4
+[2025.06.28-18.54.25:241][327]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChute_Auto48C17E82C4C5E09BD1BD464AE62DFA5B7.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto4.uasset'
+[2025.06.28-18.54.25:242][327]LogFileHelpers: Auto-saving content packages took 0.042
+[2025.06.28-18.57.49:110][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.06.28-18.58.20:244][202]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5053.552734
+[2025.06.28-18.58.20:328][212]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-18.58.20:328][212]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5053.628906, Update Interval: 349.324615
+[2025.06.28-18.58.41:765][777]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.06.28-18.58.44:599][ 76]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.06.28-18.58.47:606][429]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.06.28-18.58.56:481][453]LogEditorTransaction: Undo Straighten Connection(s)
+[2025.06.28-19.01.49:620][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2025.06.28-19.01.50:242][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.01.50:267][ 48]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Gamemode] ([2] browsable assets)...
+[2025.06.28-19.01.50:267][ 48]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Gamemode]
+[2025.06.28-19.01.50:267][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Gamemode" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/GM_Gamemode.uasset" SILENT=true
+[2025.06.28-19.01.50:272][ 48]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Gamemode
+[2025.06.28-19.01.50:273][ 48]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/GM_Gamemode1ED9EFA744EEBF1CFC993D98597359E6.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/GM_Gamemode.uasset'
+[2025.06.28-19.01.50:280][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 38.950 ms (total: 1.03 sec)
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: Enabled validators:
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.01.50:309][ 48]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Gamemode.GM_Gamemode
+[2025.06.28-19.01.50:309][ 48]AssetCheck: /Game/Blueprints/GM_Gamemode Validating asset
+[2025.06.28-19.01.51:595][200]LogBlueprint: Warning: [AssetLog] C:\Users\Chris\Documents\Unreal Projects\MyProject3\ICE-CREAM-GAME-JAM\Content\Blueprints\TestInteractables\BP_IceCreamChute.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Generate Order  and was replaced as a Custom Event!
+[2025.06.28-19.02.16:383][ 28]LogBlueprint: Warning: [AssetLog] C:\Users\Chris\Documents\Unreal Projects\MyProject3\ICE-CREAM-GAME-JAM\Content\Blueprints\TestInteractables\BP_IceCreamChute.uasset: [Compiler] Could not find a variable named "Order Struct" in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'.
+Make sure '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C' has been compiled for  Set
+[2025.06.28-19.02.16:386][ 28]LogBlueprint: Error: [AssetLog] C:\Users\Chris\Documents\Unreal Projects\MyProject3\ICE-CREAM-GAME-JAM\Content\Blueprints\TestInteractables\BP_IceCreamChute.uasset: [Compiler] The property associated with  Order Struct  could not be found in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'
+[2025.06.28-19.02.16:422][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.06.28-19.02.16:789][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.02.16:815][ 52]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-19.02.16:844][ 52]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-19.02.16:844][ 52]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-19.02.16:852][ 52]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamChute
+[2025.06.28-19.02.16:853][ 52]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChuteD56B71D6494E348E686B24BD9D3CA474.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset'
+[2025.06.28-19.02.16:862][ 52]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.767 ms (total: 1.10 sec)
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: Enabled validators:
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.02.16:887][ 52]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute
+[2025.06.28-19.02.16:887][ 52]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamChute Validating asset
+[2025.06.28-19.02.30:168][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-19.03.45:203][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.28-19.04.03:607][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.28-19.04.16:603][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-19.04.48:931][717]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5442.268066
+[2025.06.28-19.04.49:039][730]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.04.49:039][730]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5442.369141, Update Interval: 318.333069
+[2025.06.28-19.05.29:001][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.06.28-19.06.10:478][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.28-19.06.10:480][103]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.014
+[2025.06.28-19.06.10:480][103]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamBase] ([2] browsable assets)...
+[2025.06.28-19.06.10:480][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamBase]
+[2025.06.28-19.06.10:490][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamBase_Auto5
+[2025.06.28-19.06.10:490][103]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamBase_Auto5E6255E4242B4A63F219EBEBE1F39213B.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamBase_Auto5.uasset'
+[2025.06.28-19.06.10:492][103]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-19.06.10:522][103]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-19.06.10:522][103]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-19.06.10:533][103]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto5
+[2025.06.28-19.06.10:533][103]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChute_Auto5F2FA654C42AF82742017ECA732875924.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto5.uasset'
+[2025.06.28-19.06.10:533][103]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.06.28-19.10.39:244][499]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5792.597168
+[2025.06.28-19.10.40:244][502]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.10.40:244][502]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5793.263672, Update Interval: 307.910400
+[2025.06.28-19.16.33:195][ 14]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6146.546875
+[2025.06.28-19.16.34:194][ 17]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.16.34:194][ 17]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6147.214355, Update Interval: 312.479004
+[2025.06.28-19.22.36:265][103]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6509.618652
+[2025.06.28-19.22.37:266][106]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.22.37:266][106]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6510.286621, Update Interval: 355.083466
+[2025.06.28-19.29.30:345][345]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6923.707031
+[2025.06.28-19.29.31:347][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.29.31:347][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6924.374512, Update Interval: 357.335724
+[2025.06.28-19.32.32:048][890]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 7dc...a12
+[2025.06.28-19.32.32:048][890]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.87 RefreshExpires: 1.554e+07
+[2025.06.28-19.32.33:048][893]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 7dc...a12 Access[Expires: 2025.06.28-21.32.33 Remaining: 7200.27] Refresh[Expires: 2025-12-25T17:34:11.882Z Remaining: 15544898.88] State: Valid
+[2025.06.28-19.35.59:377][512]LogDerivedDataCache: C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.28-19.36.27:056][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7340.419434
+[2025.06.28-19.36.27:139][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.36.27:139][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7340.494141, Update Interval: 357.004303
+[2025.06.28-19.37.25:013][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.06.28-19.38.29:604][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.28-19.38.45:745][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.38.45:776][  1]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamBase] ([2] browsable assets)...
+[2025.06.28-19.38.45:776][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamBase]
+[2025.06.28-19.38.45:785][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamBase
+[2025.06.28-19.38.45:786][  1]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamBaseB253210F4CD9DB57D8CAEB899010C9F9.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamBase.uasset'
+[2025.06.28-19.38.45:787][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-19.38.45:792][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-19.38.45:792][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-19.38.45:802][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamChute
+[2025.06.28-19.38.45:803][  1]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChuteBDDCC11F4CEB47C141D77EA03C26B70C.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset'
+[2025.06.28-19.38.45:804][  1]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_TrashCan] ([2] browsable assets)...
+[2025.06.28-19.38.45:807][  1]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_TrashCan.BP_TrashCan]
+[2025.06.28-19.38.45:809][  1]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_TrashCan]
+[2025.06.28-19.38.45:812][  1]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_TrashCan
+[2025.06.28-19.38.45:812][  1]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_TrashCan850CA96E464C97D67153DC9519122D7F.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_TrashCan.uasset'
+[2025.06.28-19.38.45:821][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.205 ms (total: 1.18 sec)
+[2025.06.28-19.38.45:850][  1]LogContentValidation: Display: Starting to validate 3 assets
+[2025.06.28-19.38.45:850][  1]LogContentValidation: Enabled validators:
+[2025.06.28-19.38.45:850][  1]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.38.45:850][  1]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.38.45:850][  1]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.38.45:850][  1]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamBase.BP_IceCreamBase
+[2025.06.28-19.38.45:851][  1]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamBase Validating asset
+[2025.06.28-19.38.45:851][  1]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute
+[2025.06.28-19.38.45:851][  1]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamChute Validating asset
+[2025.06.28-19.38.45:851][  1]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_TrashCan.BP_TrashCan
+[2025.06.28-19.38.45:851][  1]AssetCheck: /Game/Blueprints/TestInteractables/BP_TrashCan Validating asset
+[2025.06.28-19.40.07:564][132]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.06.28-19.40.07:576][132]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.06.28-19.40.07:582][132]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.06.28-19.40.07:602][133]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.06.28-19.40.15:143][ 18]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WID_PendingOrder
+[2025.06.28-19.40.15:154][ 18]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.06.28-19.40.15:846][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.40.15:868][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-19.40.15:878][ 97]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-19.40.15:878][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-19.40.15:880][ 97]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-19.40.15:880][ 97]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder4F03E4464D29FF06546314A5BE33583F.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-19.40.15:890][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.380 ms (total: 1.22 sec)
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: Enabled validators:
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.40.15:916][ 97]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-19.40.15:917][ 97]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-19.40.17:020][223]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-19.40.17:031][223]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.06.28-19.40.17:266][223]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.06.28-19.40.17:271][223]LogSlate: Took 0.005555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.28-19.40.30:330][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.28-19.41.25:341][249]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.28-19.42.27:656][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.06.28-19.42.39:025][929]LogSlate: Took 0.008637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.06.28-19.43.13:407][912]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7746.723145
+[2025.06.28-19.43.13:490][922]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.43.13:490][922]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7746.797852, Update Interval: 317.873474
+[2025.06.28-19.44.21:164][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.06.28-19.44.59:798][295]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.28-19.45.17:326][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.28-19.46.46:533][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.28-19.46.46:535][270]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.015
+[2025.06.28-19.46.46:535][270]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Gamemode] ([2] browsable assets)...
+[2025.06.28-19.46.46:535][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Gamemode]
+[2025.06.28-19.46.46:538][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GM_Gamemode_Auto6
+[2025.06.28-19.46.46:538][270]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/GM_Gamemode_Auto60951434849D654C35F0DD8A931E540D4.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/GM_Gamemode_Auto6.uasset'
+[2025.06.28-19.46.46:539][270]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-19.46.46:544][270]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-19.46.46:544][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-19.46.46:548][270]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/WID_PendingOrder_Auto6
+[2025.06.28-19.46.46:548][270]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder_Auto69C9B63E94241F3BBFAFED88B54290111.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/WID_PendingOrder_Auto6.uasset'
+[2025.06.28-19.46.46:549][270]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.06.28-19.48.04:988][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-19.48.07:702][615]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.48.07:738][615]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-19.48.07:739][615]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-19.48.07:739][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-19.48.07:745][615]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-19.48.07:745][615]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder2B77C5D545620E3160E07A90BAF81AE9.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-19.48.07:753][615]LogFileHelpers: InternalPromptForCheckoutAndSave took 51.052 ms (total: 1.27 sec)
+[2025.06.28-19.48.07:780][615]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.48.07:780][615]LogContentValidation: Enabled validators:
+[2025.06.28-19.48.07:780][615]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.48.07:780][615]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.48.07:780][615]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.48.07:780][615]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-19.48.07:781][615]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-19.48.12:551][151]LogSlate: Took 0.005568 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.06.28-19.48.22:113][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.06.28-19.48.22:429][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.48.22:449][252]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-19.48.22:451][252]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-19.48.22:451][252]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-19.48.22:458][252]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-19.48.22:458][252]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrderEB6A8BA24165B9D5676A7382EC764530.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-19.48.22:464][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.101 ms (total: 1.31 sec)
+[2025.06.28-19.48.22:485][252]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.48.22:485][252]LogContentValidation: Enabled validators:
+[2025.06.28-19.48.22:485][252]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.48.22:485][252]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.48.22:485][252]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.48.22:485][252]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-19.48.22:485][252]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-19.49.04:743][918]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8098.088867
+[2025.06.28-19.49.04:826][928]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.49.04:826][928]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8098.165527, Update Interval: 324.068115
+[2025.06.28-19.50.22:223][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-19.50.22:262][758]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-19.50.22:265][758]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-19.50.22:265][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-19.50.22:276][758]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-19.50.22:276][758]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder18869B24497E3BF4C502A8AAE871D9DF.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-19.50.22:286][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.084 ms (total: 1.37 sec)
+[2025.06.28-19.50.22:329][758]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-19.50.22:329][758]LogContentValidation: Enabled validators:
+[2025.06.28-19.50.22:329][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-19.50.22:329][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-19.50.22:329][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-19.50.22:329][758]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-19.50.22:330][758]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-19.55.12:057][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8465.386719
+[2025.06.28-19.55.13:057][679]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-19.55.13:057][679]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8466.053711, Update Interval: 338.088928
+[2025.06.28-20.01.42:481][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8855.797852
+[2025.06.28-20.01.43:483][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.01.43:483][850]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8856.463867, Update Interval: 326.237976
+[2025.06.28-20.07.41:568][924]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9214.854492
+[2025.06.28-20.07.42:568][927]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.07.42:568][927]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9215.520508, Update Interval: 334.036682
+[2025.06.28-20.13.50:975][ 32]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9584.239258
+[2025.06.28-20.13.51:975][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.13.51:975][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9584.906250, Update Interval: 325.534851
+[2025.06.28-20.20.12:386][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9965.658203
+[2025.06.28-20.20.13:387][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.20.13:387][179]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9966.326172, Update Interval: 301.239655
+[2025.06.28-20.24.39:213][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.06.28-20.24.40:415][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-20.24.40:486][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.06.28-20.24.40:496][219]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-20.24.40:496][219]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-20.24.40:499][219]LogSavePackage: Moving output files for package: /Game/Levels/DevMap
+[2025.06.28-20.24.40:500][219]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/DevMapDC291BF7437CCB60A78216B3A585E790.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Levels/DevMap.umap'
+[2025.06.28-20.24.40:508][219]LogFileHelpers: Saving map 'DevMap' took 0.055
+[2025.06.28-20.24.40:521][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.538 ms (total: 1.48 sec)
+[2025.06.28-20.24.40:559][219]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-20.24.40:559][219]LogContentValidation: Enabled validators:
+[2025.06.28-20.24.40:559][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-20.24.40:559][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-20.24.40:559][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-20.24.40:559][219]LogContentValidation: Display: Validating asset /Game/Levels/DevMap.DevMap
+[2025.06.28-20.24.40:559][219]AssetCheck: /Game/Levels/DevMap Validating asset
+[2025.06.28-20.24.44:532][586]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.06.28-20.24.44:548][586]LogContentBrowser: Creating deferred item: NewFolder
+[2025.06.28-20.24.44:559][587]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.06.28-20.24.47:752][934]LogContentBrowser: Attempting asset rename: NewFolder -> RobotAssets
+[2025.06.28-20.24.47:753][934]LogContentBrowser: End creating deferred item NewFolder
+[2025.06.28-20.25.48:961][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10302.247070
+[2025.06.28-20.25.49:961][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.25.49:961][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10302.914062, Update Interval: 317.551208
+[2025.06.28-20.30.06:726][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_mesh.fbx)
+[2025.06.28-20.30.06:745][905]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_mesh.fbx
+[2025.06.28-20.30.06:753][905]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.30.08:162][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.30.08:229][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.28-20.30.08:231][905]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2025.06.28-20.30.08:546][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.28-20.30.08:549][905]FBXImport: Import was canceled. 
+[2025.06.28-20.30.08:581][905]LogAssetTools: The import task was canceled.
+[2025.06.28-20.30.10:514][115]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.30.10:522][115]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.30.12:938][247]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_mesh.fbx)
+[2025.06.28-20.30.12:942][247]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_mesh.fbx
+[2025.06.28-20.30.12:947][247]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.31.16:649][247]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.31.16:693][247]LogFbx: Triangulating skeletal mesh BaseRobot
+[2025.06.28-20.31.16:737][247]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2025.06.28-20.31.16:839][247]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2025.06.28-20.31.16:839][247]LogSkeletalMesh: Section 1: Material=1, 1242 triangles
+[2025.06.28-20.31.16:839][247]LogSkeletalMesh: Section 2: Material=2, 2 triangles
+[2025.06.28-20.31.16:839][247]LogSkeletalMesh: Section 3: Material=3, 380 triangles
+[2025.06.28-20.31.16:851][247]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.31.16:853][247]LogSkeletalMesh: Building Skeletal Mesh robot_mesh...
+[2025.06.28-20.31.16:906][247]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/RobotAssets/robot_mesh.robot_mesh
+[2025.06.28-20.31.16:987][247]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.31.16:987][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.31.16:997][247]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.31.17:014][247]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.28-20.31.17:014][247]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.06.28-20.31.17:058][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.28-20.31.18:885][446]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.31.18:891][446]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.31.21:153][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-20.31.21:176][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_mesh] ([1] browsable assets)...
+[2025.06.28-20.31.21:200][680]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/RobotAssets/robot_mesh.robot_mesh]
+[2025.06.28-20.31.21:200][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_mesh]
+[2025.06.28-20.31.21:200][680]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RobotAssets/robot_mesh" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_mesh.uasset" SILENT=true
+[2025.06.28-20.31.21:206][680]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_mesh
+[2025.06.28-20.31.21:206][680]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_mesh468CD2F347F363BB3DBAC4854D8A1BE2.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_mesh.uasset'
+[2025.06.28-20.31.21:207][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_mesh_PhysicsAsset] ([1] browsable assets)...
+[2025.06.28-20.31.21:213][680]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/RobotAssets/robot_mesh_PhysicsAsset.robot_mesh_PhysicsAsset]
+[2025.06.28-20.31.21:213][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_mesh_PhysicsAsset]
+[2025.06.28-20.31.21:214][680]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_mesh_PhysicsAsset
+[2025.06.28-20.31.21:214][680]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_mesh_PhysicsAssetFB94BC534C0346016AB0379EB286B3D2.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_mesh_PhysicsAsset.uasset'
+[2025.06.28-20.31.21:215][680]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_mesh_Skeleton] ([1] browsable assets)...
+[2025.06.28-20.31.21:220][680]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/RobotAssets/robot_mesh_Skeleton.robot_mesh_Skeleton]
+[2025.06.28-20.31.21:220][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_mesh_Skeleton]
+[2025.06.28-20.31.21:222][680]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_mesh_Skeleton
+[2025.06.28-20.31.21:222][680]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_mesh_Skeleton65B606A345756A6D3A800E8FCD698D2D.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_mesh_Skeleton.uasset'
+[2025.06.28-20.31.21:230][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.523 ms (total: 1.55 sec)
+[2025.06.28-20.31.21:254][680]LogContentValidation: Display: Starting to validate 3 assets
+[2025.06.28-20.31.21:254][680]LogContentValidation: Enabled validators:
+[2025.06.28-20.31.21:254][680]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-20.31.21:254][680]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-20.31.21:254][680]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-20.31.21:254][680]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_mesh.robot_mesh
+[2025.06.28-20.31.21:254][680]AssetCheck: /Game/RobotAssets/robot_mesh Validating asset
+[2025.06.28-20.31.21:254][680]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_mesh_PhysicsAsset.robot_mesh_PhysicsAsset
+[2025.06.28-20.31.21:254][680]AssetCheck: /Game/RobotAssets/robot_mesh_PhysicsAsset Validating asset
+[2025.06.28-20.31.21:254][680]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_mesh_Skeleton.robot_mesh_Skeleton
+[2025.06.28-20.31.21:254][680]AssetCheck: /Game/RobotAssets/robot_mesh_Skeleton Validating asset
+[2025.06.28-20.31.56:129][ 74]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10669.403320
+[2025.06.28-20.31.57:130][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.31.57:131][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10670.070312, Update Interval: 343.278290
+[2025.06.28-20.32.11:693][334]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_skeleton.fbx)
+[2025.06.28-20.32.11:696][334]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_skeleton.fbx
+[2025.06.28-20.32.11:703][334]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.32.18:092][334]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.32.18:132][334]FBXImport: Error: Mesh contains BaseRobot bone as root but animation doesn't contain the root track.
+Import failed. 
+[2025.06.28-20.32.18:132][334]FBXImport: Error: Import failed. 
+[2025.06.28-20.32.21:066][334]LogSlate: Window 'Message' being destroyed
+[2025.06.28-20.32.21:071][334]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.32.21:071][334]LogAssetTools: Warning: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.32.32:950][697]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.32.32:957][697]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.32.36:310][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_skeleton.fbx)
+[2025.06.28-20.32.36:314][903]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_skeleton.fbx
+[2025.06.28-20.32.36:320][903]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.32.53:131][903]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.32.53:168][903]FBXImport: Error: Mesh contains BaseRobot bone as root but animation doesn't contain the root track.
+Import failed. 
+[2025.06.28-20.32.53:168][903]FBXImport: Error: Import failed. 
+[2025.06.28-20.32.54:184][903]LogSlate: Window 'Message' being destroyed
+[2025.06.28-20.32.54:190][903]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.32.54:190][903]LogAssetTools: Warning: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.32.55:362][ 36]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.32.55:378][ 36]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.32.55:941][ 94]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/RobotAssets/robot_mesh_Skeleton.robot_mesh_Skeleton
+[2025.06.28-20.32.56:005][ 94]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2025.06.28-20.32.56:028][ 94]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.28-20.33.04:188][908]Cmd: TRANSACTION UNDO
+[2025.06.28-20.33.04:189][908]LogEditorTransaction: Undo Rotate Bone
+[2025.06.28-20.33.04:312][908]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.28-20.33.16:921][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.28-20.33.17:820][355]LogSlate: Window 'Delete Assets' being destroyed
+[2025.06.28-20.33.18:095][355]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.33.18:096][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.33.18:107][355]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.33.18:107][355]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.33.18:151][355]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/RobotAssets/robot_mesh.robot_mesh
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/RobotAssets/robot_mesh_PhysicsAsset.robot_mesh_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/RobotAssets/robot_mesh_Skeleton.robot_mesh_Skeleton
+	Asset Type: Skeleton
+[2025.06.28-20.33.18:310][355]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.33.18:328][355]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.33.18:404][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-20.33.18:420][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-20.33.18:433][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.06.28-20.33.18:449][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.28-20.33.36:092][593]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_skeleton.fbx)
+[2025.06.28-20.33.36:096][593]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_skeleton.fbx
+[2025.06.28-20.33.36:105][593]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.33.48:698][593]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.33.48:743][593]LogFbx: Triangulating skeletal mesh BaseRobot
+[2025.06.28-20.33.48:783][593]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2025.06.28-20.33.48:864][593]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2025.06.28-20.33.48:864][593]LogSkeletalMesh: Section 1: Material=1, 1242 triangles
+[2025.06.28-20.33.48:864][593]LogSkeletalMesh: Section 2: Material=2, 2 triangles
+[2025.06.28-20.33.48:864][593]LogSkeletalMesh: Section 3: Material=3, 380 triangles
+[2025.06.28-20.33.48:874][593]LogSkeletalMesh: Building Skeletal Mesh robot_skeleton...
+[2025.06.28-20.33.48:874][593]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_skeleton) ...
+[2025.06.28-20.33.48:924][593]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/RobotAssets/robot_skeleton.robot_skeleton
+[2025.06.28-20.33.48:993][593]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.33.48:993][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.33.49:002][593]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_skeleton) ...
+[2025.06.28-20.33.49:020][593]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.28-20.33.49:020][593]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.06.28-20.33.49:059][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.28-20.33.52:773][  4]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.33.52:782][  4]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.33.53:472][ 76]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/RobotAssets/robot_skeleton_Skeleton.robot_skeleton_Skeleton
+[2025.06.28-20.33.53:480][ 76]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.28-20.33.57:337][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-20.33.57:363][474]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_skeleton_Skeleton] ([1] browsable assets)...
+[2025.06.28-20.33.57:369][474]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/RobotAssets/robot_skeleton_Skeleton.robot_skeleton_Skeleton]
+[2025.06.28-20.33.57:369][474]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_skeleton_Skeleton]
+[2025.06.28-20.33.57:371][474]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_skeleton_Skeleton
+[2025.06.28-20.33.57:371][474]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_skeleton_SkeletonF2E5930F46AB17947BBAB68945DAEF8D.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_skeleton_Skeleton.uasset'
+[2025.06.28-20.33.57:380][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.527 ms (total: 1.60 sec)
+[2025.06.28-20.33.57:405][474]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-20.33.57:405][474]LogContentValidation: Enabled validators:
+[2025.06.28-20.33.57:405][474]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-20.33.57:405][474]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-20.33.57:405][474]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-20.33.57:405][474]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_skeleton_Skeleton.robot_skeleton_Skeleton
+[2025.06.28-20.33.57:405][474]AssetCheck: /Game/RobotAssets/robot_skeleton_Skeleton Validating asset
+[2025.06.28-20.33.58:962][633]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/RobotAssets/robot_skeleton.robot_skeleton
+[2025.06.28-20.33.58:970][633]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.28-20.34.04:494][194]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.34.04:494][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.34.04:622][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-20.34.05:644][312]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.34.05:644][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.34.05:759][312]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.34.05:759][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.34.05:779][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-20.34.08:637][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-20.34.08:665][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_skeleton] ([1] browsable assets)...
+[2025.06.28-20.34.08:690][624]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/RobotAssets/robot_skeleton.robot_skeleton]
+[2025.06.28-20.34.08:690][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_skeleton]
+[2025.06.28-20.34.08:695][624]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_skeleton
+[2025.06.28-20.34.08:695][624]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_skeletonFABE0E384ED5B25BAD1AA78FF553EA24.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_skeleton.uasset'
+[2025.06.28-20.34.08:696][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RobotAssets/robot_skeleton_PhysicsAsset] ([1] browsable assets)...
+[2025.06.28-20.34.08:701][624]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/RobotAssets/robot_skeleton_PhysicsAsset.robot_skeleton_PhysicsAsset]
+[2025.06.28-20.34.08:701][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_skeleton_PhysicsAsset]
+[2025.06.28-20.34.08:703][624]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_skeleton_PhysicsAsset
+[2025.06.28-20.34.08:703][624]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_skeleton_PhysicsAssetE4AFF66F428B978869056A8F3BAB37B5.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_skeleton_PhysicsAsset.uasset'
+[2025.06.28-20.34.08:703][624]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RobotAssets/robot_skeleton_Skeleton] ([1] browsable assets)...
+[2025.06.28-20.34.08:703][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/RobotAssets/robot_skeleton_Skeleton]
+[2025.06.28-20.34.08:704][624]LogSavePackage: Moving output files for package: /Game/RobotAssets/robot_skeleton_Skeleton
+[2025.06.28-20.34.08:704][624]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/robot_skeleton_Skeleton62ADDF0640D8AE6B28AE099A60E39CE1.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/RobotAssets/robot_skeleton_Skeleton.uasset'
+[2025.06.28-20.34.08:713][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 77.017 ms (total: 1.67 sec)
+[2025.06.28-20.34.08:744][624]LogContentValidation: Display: Starting to validate 3 assets
+[2025.06.28-20.34.08:744][624]LogContentValidation: Enabled validators:
+[2025.06.28-20.34.08:744][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-20.34.08:744][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-20.34.08:744][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-20.34.08:744][624]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_skeleton.robot_skeleton
+[2025.06.28-20.34.08:744][624]AssetCheck: /Game/RobotAssets/robot_skeleton Validating asset
+[2025.06.28-20.34.08:744][624]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_skeleton_PhysicsAsset.robot_skeleton_PhysicsAsset
+[2025.06.28-20.34.08:744][624]AssetCheck: /Game/RobotAssets/robot_skeleton_PhysicsAsset Validating asset
+[2025.06.28-20.34.08:744][624]LogContentValidation: Display: Validating asset /Game/RobotAssets/robot_skeleton_Skeleton.robot_skeleton_Skeleton
+[2025.06.28-20.34.08:744][624]AssetCheck: /Game/RobotAssets/robot_skeleton_Skeleton Validating asset
+[2025.06.28-20.34.12:851][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.28-20.34.13:655][ 69]LogSlate: Window 'Delete Assets' being destroyed
+[2025.06.28-20.34.13:682][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.28-20.34.13:695][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-20.34.13:709][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.28-20.34.40:782][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.28-20.34.40:783][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.014
+[2025.06.28-20.34.40:784][228]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Gamemode] ([2] browsable assets)...
+[2025.06.28-20.34.40:784][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Gamemode]
+[2025.06.28-20.34.40:787][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/GM_Gamemode_Auto7
+[2025.06.28-20.34.40:787][228]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/GM_Gamemode_Auto7F12E697F4FEFA08F230315A093F58909.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/GM_Gamemode_Auto7.uasset'
+[2025.06.28-20.34.40:787][228]LogFileHelpers: Auto-saving content packages took 0.004
+[2025.06.28-20.35.02:830][416]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_skeleton.fbx)
+[2025.06.28-20.35.02:834][416]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_skeleton.fbx
+[2025.06.28-20.35.02:838][416]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.35.02:839][416]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2025.06.28-20.35.05:631][416]LogSlate: Window 'Message' being destroyed
+[2025.06.28-20.35.05:637][416]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.35.05:637][416]LogAssetTools: Warning: Failed to import 'C:\Users\Chris\Documents\temp\robot_skeleton.fbx'. Failed to create asset '/Game/RobotAssets/robot_skeleton'.
+Please see Output Log for details.
+[2025.06.28-20.35.09:723][843]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.35.09:731][843]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.35.13:507][ 59]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Chris\Documents\temp\robot_mesh.fbx)
+[2025.06.28-20.35.13:511][ 59]LogFbx: Loading FBX Scene from C:\Users\Chris\Documents\temp\robot_mesh.fbx
+[2025.06.28-20.35.13:516][ 59]LogFbx: FBX Scene Loaded Succesfully
+[2025.06.28-20.35.30:004][ 59]LogSlate: Window 'FBX Import Options' being destroyed
+[2025.06.28-20.35.30:047][ 59]LogFbx: Triangulating skeletal mesh BaseRobot
+[2025.06.28-20.35.30:085][ 59]LogFbx: Bones digested - 1  Depth of hierarchy - 1
+[2025.06.28-20.35.30:186][ 59]LogSkeletalMesh: Section 0: Material=0, 2080 triangles
+[2025.06.28-20.35.30:186][ 59]LogSkeletalMesh: Section 1: Material=1, 1242 triangles
+[2025.06.28-20.35.30:186][ 59]LogSkeletalMesh: Section 2: Material=2, 2 triangles
+[2025.06.28-20.35.30:186][ 59]LogSkeletalMesh: Section 3: Material=3, 380 triangles
+[2025.06.28-20.35.30:195][ 59]LogSkeletalMesh: Building Skeletal Mesh robot_mesh...
+[2025.06.28-20.35.30:195][ 59]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.35.30:246][ 59]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/RobotAssets/robot_mesh.robot_mesh
+[2025.06.28-20.35.30:329][ 59]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.35.30:329][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.35.30:340][ 59]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (robot_mesh) ...
+[2025.06.28-20.35.30:357][ 59]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2025.06.28-20.35.30:357][ 59]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2025.06.28-20.35.30:402][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.28-20.35.32:495][279]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.35.32:503][279]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-20.35.33:222][351]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/RobotAssets/robot_mesh_Skeleton.robot_mesh_Skeleton
+[2025.06.28-20.35.33:229][351]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.06.28-20.35.36:475][654]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.35.36:475][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.35.36:556][654]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-20.35.36:556][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-20.35.36:575][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.28-20.35.39:135][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.06.28-20.35.40:097][928]LogSlate: Window 'Delete Assets' being destroyed
+[2025.06.28-20.35.40:121][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.06.28-20.35.40:132][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-20.35.40:143][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.06.28-20.35.59:383][180]LogDerivedDataCache: C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.28-20.38.33:249][641]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11066.473633
+[2025.06.28-20.38.34:250][644]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.38.34:250][644]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11067.139648, Update Interval: 303.856323
+[2025.06.28-20.44.35:755][728]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11428.875977
+[2025.06.28-20.44.36:756][731]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.44.36:756][731]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11429.541992, Update Interval: 318.474060
+[2025.06.28-20.50.53:610][861]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11806.612305
+[2025.06.28-20.50.54:611][864]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.50.54:611][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11807.280273, Update Interval: 307.179779
+[2025.06.28-20.56.34:159][181]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.28-20.56.35:565][343]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
