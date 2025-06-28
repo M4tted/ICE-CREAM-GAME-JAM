@@ -6429,3 +6429,848 @@ Please see Output Log for details.
 [2025.06.28-20.50.54:611][864]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11807.280273, Update Interval: 307.179779
 [2025.06.28-20.56.34:159][181]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
 [2025.06.28-20.56.35:565][343]LogRenderer: Display: Invalidated clipmap due to WPO threshold change. This can occur due to resolution or FOV changes.
+[2025.06.28-20.57.00:145][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12173.009766
+[2025.06.28-20.57.00:227][827]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-20.57.00:227][827]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12173.083984, Update Interval: 351.554932
+[2025.06.28-20.59.00:026][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.06.28-20.59.00:029][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.016
+[2025.06.28-20.59.00:029][966]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-20.59.00:032][966]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-20.59.00:032][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-20.59.00:038][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/WID_PendingOrder_Auto8
+[2025.06.28-20.59.00:039][966]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder_Auto854688E3D4F8617F20EDD949098331D52.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/WID_PendingOrder_Auto8.uasset'
+[2025.06.28-20.59.00:039][966]LogFileHelpers: Auto-saving content packages took 0.011
+[2025.06.28-20.59.31:661][738]LogEditorTransaction: Undo Move Node
+[2025.06.28-20.59.32:362][779]LogEditorTransaction: Undo Create Pin Link
+[2025.06.28-21.00.46:176][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.28-21.00.46:710][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.00.46:736][589]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-21.00.46:738][589]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-21.00.46:738][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-21.00.46:744][589]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-21.00.46:744][589]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrderFF8C426748AB5575C897BCB523397DD5.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-21.00.46:752][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.963 ms (total: 1.72 sec)
+[2025.06.28-21.00.46:785][589]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.00.46:785][589]LogContentValidation: Enabled validators:
+[2025.06.28-21.00.46:785][589]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.00.46:785][589]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.00.46:785][589]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.00.46:785][589]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-21.00.46:786][589]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-21.00.53:295][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TestInteractables/Machines/BP_MixInMachine.BP_MixInMachine
+[2025.06.28-21.03.47:789][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12580.541016
+[2025.06.28-21.03.48:790][278]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.03.48:790][278]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12581.209961, Update Interval: 311.250336
+[2025.06.28-21.08.38:758][311]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.08.38:758][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.08.38:879][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.06.28-21.09.33:337][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.09.33:369][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-21.09.33:369][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-21.09.33:375][579]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-21.09.33:375][579]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrderFBF72F314F38DAD8B36F7688FCC7B47B.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-21.09.33:384][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.837 ms (total: 1.76 sec)
+[2025.06.28-21.09.33:405][579]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.09.33:405][579]LogContentValidation: Enabled validators:
+[2025.06.28-21.09.33:405][579]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.09.33:405][579]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.09.33:405][579]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.09.33:405][579]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-21.09.33:405][579]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-21.09.40:419][410]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.09.40:812][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.09.40:847][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GM_Gamemode] ([2] browsable assets)...
+[2025.06.28-21.09.40:847][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GM_Gamemode]
+[2025.06.28-21.09.40:847][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Gamemode" FILE="../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/GM_Gamemode.uasset" SILENT=true
+[2025.06.28-21.09.40:849][450]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Gamemode
+[2025.06.28-21.09.40:850][450]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/GM_Gamemode19ACB9884503A1EC9170EE9848AC2F2F.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/GM_Gamemode.uasset'
+[2025.06.28-21.09.40:858][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.220 ms (total: 1.81 sec)
+[2025.06.28-21.09.40:889][450]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.09.40:889][450]LogContentValidation: Enabled validators:
+[2025.06.28-21.09.40:889][450]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.09.40:889][450]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.09.40:889][450]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.09.40:889][450]LogContentValidation: Display: Validating asset /Game/Blueprints/GM_Gamemode.GM_Gamemode
+[2025.06.28-21.09.40:889][450]AssetCheck: /Game/Blueprints/GM_Gamemode Validating asset
+[2025.06.28-21.09.42:617][653]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.06.28-21.09.42:617][653]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.09.42:617][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.09.42:768][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.06.28-21.09.56:617][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12949.307617
+[2025.06.28-21.09.56:712][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.09.56:712][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12949.392578, Update Interval: 307.115692
+[2025.06.28-21.10.34:925][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.10.34:953][884]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-21.10.34:953][884]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-21.10.34:964][884]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamChute
+[2025.06.28-21.10.34:965][884]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChuteBD0F58F44101830CD98F9B8DA3F31DCD.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset'
+[2025.06.28-21.10.34:974][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.671 ms (total: 1.86 sec)
+[2025.06.28-21.10.35:001][884]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.10.35:001][884]LogContentValidation: Enabled validators:
+[2025.06.28-21.10.35:001][884]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.10.35:001][884]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.10.35:001][884]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.10.35:001][884]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute
+[2025.06.28-21.10.35:001][884]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamChute Validating asset
+[2025.06.28-21.10.53:589][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.11.01:430][642]Cmd: TRANSACTION UNDO
+[2025.06.28-21.11.01:430][642]LogEditorTransaction: Undo Rename Variable
+[2025.06.28-21.11.02:403][708]Cmd: TRANSACTION UNDO
+[2025.06.28-21.11.02:403][708]LogEditorTransaction: Undo Add Variable
+[2025.06.28-21.11.08:835][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PlayerCharacter_BP.PlayerCharacter_BP
+[2025.06.28-21.11.21:375][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.06.28-21.11.21:661][761]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.11.21:691][761]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacter_BP] ([2] browsable assets)...
+[2025.06.28-21.11.21:691][761]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter_BP]
+[2025.06.28-21.11.21:708][761]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerCharacter_BP
+[2025.06.28-21.11.21:708][761]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/PlayerCharacter_BPDA5664B348DABBDB428EED9A3D172137.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/PlayerCharacter_BP.uasset'
+[2025.06.28-21.11.21:717][761]LogFileHelpers: InternalPromptForCheckoutAndSave took 55.424 ms (total: 1.92 sec)
+[2025.06.28-21.11.21:748][761]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.11.21:748][761]LogContentValidation: Enabled validators:
+[2025.06.28-21.11.21:748][761]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.11.21:748][761]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.11.21:748][761]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.11.21:748][761]LogContentValidation: Display: Validating asset /Game/Blueprints/PlayerCharacter_BP.PlayerCharacter_BP
+[2025.06.28-21.11.21:748][761]AssetCheck: /Game/Blueprints/PlayerCharacter_BP Validating asset
+[2025.06.28-21.12.13:298][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.28-21.12.44:352][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-21.12.46:814][442]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.12.46:823][442]LogPlayLevel: [PlayLevel] Compiling BP_TestActor before play...
+[2025.06.28-21.12.46:823][442]LogPlayLevel: [PlayLevel]   Compiling BP_IceCreamMachine as a dependent...
+[2025.06.28-21.12.46:823][442]LogPlayLevel: [PlayLevel]   Compiling BP_MixInMachine as a dependent...
+[2025.06.28-21.12.46:823][442]LogPlayLevel: [PlayLevel]   Compiling BP_ToppingMachine as a dependent...
+[2025.06.28-21.12.46:883][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-21.12.46:886][442]LogPlayLevel: PlayLevel: Blueprint regeneration took 65 ms (4 blueprints)
+[2025.06.28-21.12.46:886][442]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.12.46:888][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002181s)
+[2025.06.28-21.12.46:888][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.002218s)
+[2025.06.28-21.12.46:900][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.28-21.12.46:902][442]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.12.46:902][442]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2025.06.28-21.12.46:908][442]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.12.46:908][442]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.12.46:908][442]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.12.46:908][442]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.12.46:908][442]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.12.46:908][442]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.12.46:910][442]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.12.46:929][442]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.12.46:930][442]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.12.46:930][442]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.12.46:930][442]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.12.46:930][442]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2025.06.28-21.12.46:930][442]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2025.06.28-21.12.46:933][442]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2025.06.28-21.12.46:933][442]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2025.06.28-21.12.46:933][442]LogInit: FAudioDevice initialized with ID 19.
+[2025.06.28-21.12.46:933][442]LogAudio: Display: Audio Device (ID: 19) registered with world 'DevMap'.
+[2025.06.28-21.12.46:933][442]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.28-21.12.46:958][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.12.46:958][442]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.12.46:960][442]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.12.46
+[2025.06.28-21.12.46:960][442]LogWorld: Bringing up level for play took: 0.001043
+[2025.06.28-21.12.46:963][442]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.06.28-21.12.46:974][442]PIE: Server logged in
+[2025.06.28-21.12.46:977][442]PIE: Play in editor total start time 0.158 seconds.
+[2025.06.28-21.12.51:813][960]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.12.51:813][960]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.12.54:983][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.12.54:983][310]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.12.54:983][310]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.12.54:989][310]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.12.54:989][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.12.54:989][310]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.12.54:989][310]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.12.55:040][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.12.55:044][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.12.55:056][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2025.06.28-21.12.55:056][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.06.28-21.12.55:057][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2025.06.28-21.12.55:062][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.06.28-21.12.55:165][311]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.06.28-21.13.05:552][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.13.05:559][550]LogPlayLevel: [PlayLevel] Compiling BP_IceCreamChute before play...
+[2025.06.28-21.13.05:641][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-21.13.05:644][550]LogPlayLevel: PlayLevel: Blueprint regeneration took 85 ms (1 blueprints)
+[2025.06.28-21.13.05:644][550]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.13.05:646][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001867s)
+[2025.06.28-21.13.05:646][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001900s)
+[2025.06.28-21.13.05:657][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-21.13.05:658][550]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.13.05:659][550]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2025.06.28-21.13.05:669][550]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.13.05:669][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.13.05:669][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.13.05:669][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.13.05:669][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.13.05:669][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.13.05:670][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.13.05:688][550]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.13.05:689][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.13.05:689][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.13.05:689][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.13.05:689][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2025.06.28-21.13.05:689][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2025.06.28-21.13.05:691][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2025.06.28-21.13.05:691][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2025.06.28-21.13.05:691][550]LogInit: FAudioDevice initialized with ID 20.
+[2025.06.28-21.13.05:691][550]LogAudio: Display: Audio Device (ID: 20) registered with world 'DevMap'.
+[2025.06.28-21.13.05:691][550]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2025.06.28-21.13.05:718][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.13.05:718][550]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.13.05:719][550]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.13.05
+[2025.06.28-21.13.05:719][550]LogWorld: Bringing up level for play took: 0.000915
+[2025.06.28-21.13.05:721][550]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.06.28-21.13.05:730][550]PIE: Server logged in
+[2025.06.28-21.13.05:731][550]PIE: Play in editor total start time 0.174 seconds.
+[2025.06.28-21.13.10:552][ 75]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.13.10:552][ 75]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.13.12:496][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.13.12:496][289]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.13.12:497][289]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.13.12:501][289]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.13.12:501][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.13.12:501][289]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.13.12:501][289]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.13.12:553][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.13.12:556][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.13.12:568][289]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2025.06.28-21.13.12:568][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.06.28-21.13.12:570][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2025.06.28-21.13.12:574][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.28-21.13.12:679][290]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.06.28-21.13.28:670][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.13.28:677][196]LogPlayLevel: [PlayLevel] Compiling BP_IceCreamChute before play...
+[2025.06.28-21.13.28:763][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.06.28-21.13.28:766][196]LogPlayLevel: PlayLevel: Blueprint regeneration took 89 ms (1 blueprints)
+[2025.06.28-21.13.28:766][196]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.13.28:768][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001915s)
+[2025.06.28-21.13.28:768][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001943s)
+[2025.06.28-21.13.28:780][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.13.28:781][196]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.13.28:782][196]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2025.06.28-21.13.28:787][196]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.13.28:787][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.13.28:787][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.13.28:787][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.13.28:787][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.13.28:787][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.13.28:788][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.13.28:806][196]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.13.28:806][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.13.28:807][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.13.28:807][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.13.28:807][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2025.06.28-21.13.28:807][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2025.06.28-21.13.28:808][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2025.06.28-21.13.28:808][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2025.06.28-21.13.28:808][196]LogInit: FAudioDevice initialized with ID 21.
+[2025.06.28-21.13.28:808][196]LogAudio: Display: Audio Device (ID: 21) registered with world 'DevMap'.
+[2025.06.28-21.13.28:808][196]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2025.06.28-21.13.28:825][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.13.28:825][196]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.13.28:826][196]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.13.28
+[2025.06.28-21.13.28:826][196]LogWorld: Bringing up level for play took: 0.000976
+[2025.06.28-21.13.28:828][196]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2025.06.28-21.13.28:836][196]PIE: Server logged in
+[2025.06.28-21.13.28:836][196]PIE: Play in editor total start time 0.161 seconds.
+[2025.06.28-21.13.33:666][722]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.13.33:666][722]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.13.36:768][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.13.36:768][ 79]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.13.36:769][ 79]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.13.36:775][ 79]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.13.36:775][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.13.36:775][ 79]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.13.36:775][ 79]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.13.36:826][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.13.36:829][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.13.36:840][ 79]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2025.06.28-21.13.36:840][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.06.28-21.13.36:842][ 79]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2025.06.28-21.13.36:847][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.28-21.13.36:951][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2025.06.28-21.14.09:336][860]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.14.09:342][860]LogPlayLevel: [PlayLevel] Compiling BP_IceCreamChute before play...
+[2025.06.28-21.14.09:427][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-21.14.09:430][860]LogPlayLevel: PlayLevel: Blueprint regeneration took 88 ms (1 blueprints)
+[2025.06.28-21.14.09:430][860]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.14.09:431][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001865s)
+[2025.06.28-21.14.09:431][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001895s)
+[2025.06.28-21.14.09:443][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.28-21.14.09:444][860]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.14.09:445][860]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2025.06.28-21.14.09:450][860]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.14.09:450][860]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.14.09:450][860]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.14.09:450][860]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.14.09:450][860]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.14.09:450][860]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.14.09:451][860]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.14.09:470][860]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.14.09:470][860]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.14.09:470][860]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.14.09:470][860]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.14.09:470][860]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.06.28-21.14.09:470][860]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.06.28-21.14.09:473][860]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.06.28-21.14.09:473][860]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.06.28-21.14.09:473][860]LogInit: FAudioDevice initialized with ID 22.
+[2025.06.28-21.14.09:473][860]LogAudio: Display: Audio Device (ID: 22) registered with world 'DevMap'.
+[2025.06.28-21.14.09:473][860]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.06.28-21.14.09:497][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.14.09:497][860]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.14.09:498][860]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.14.09
+[2025.06.28-21.14.09:498][860]LogWorld: Bringing up level for play took: 0.000949
+[2025.06.28-21.14.09:501][860]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2025.06.28-21.14.09:508][860]PIE: Server logged in
+[2025.06.28-21.14.09:509][860]PIE: Play in editor total start time 0.17 seconds.
+[2025.06.28-21.14.12:414][109]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.14.12:414][109]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.14.12:415][109]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.14.12:420][109]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.14.12:420][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.14.12:420][109]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.14.12:420][109]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.14.12:473][109]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.14.12:476][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.14.12:487][109]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.06.28-21.14.12:487][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.06.28-21.14.12:489][109]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.06.28-21.14.12:494][109]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.28-21.14.12:612][110]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2025.06.28-21.14.24:043][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.14.41:609][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.06.28-21.14.45:150][690]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.14.45:157][690]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-21.14.45:158][690]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.14.45:159][690]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001889s)
+[2025.06.28-21.14.45:159][690]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001919s)
+[2025.06.28-21.14.45:171][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.28-21.14.45:174][690]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.14.45:175][690]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2025.06.28-21.14.45:180][690]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.14.45:180][690]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.14.45:180][690]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.14.45:180][690]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.14.45:180][690]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.14.45:180][690]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.14.45:182][690]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.14.45:201][690]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.14.45:201][690]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.14.45:201][690]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.14.45:201][690]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.14.45:202][690]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.06.28-21.14.45:202][690]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.06.28-21.14.45:203][690]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.06.28-21.14.45:203][690]LogInit: FAudioDevice initialized with ID 23.
+[2025.06.28-21.14.45:203][690]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.06.28-21.14.45:203][690]LogAudio: Display: Audio Device (ID: 23) registered with world 'DevMap'.
+[2025.06.28-21.14.45:203][690]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.06.28-21.14.45:222][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.14.45:222][690]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.14.45:223][690]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.14.45
+[2025.06.28-21.14.45:223][690]LogWorld: Bringing up level for play took: 0.000930
+[2025.06.28-21.14.45:225][690]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2025.06.28-21.14.45:235][690]PIE: Server logged in
+[2025.06.28-21.14.45:237][690]PIE: Play in editor total start time 0.082 seconds.
+[2025.06.28-21.14.50:152][154]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.14.50:152][154]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.14.54:844][604]LogScript: Warning: Accessed None trying to read property Ice Cream Reference
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:0592
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ice Cream Reference". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.54:845][604]LogScript: Warning: Accessed None reading structure MixIns_6_442C3A014E884C180AFDB2A5FFEDFAB7
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:05A7
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure MixIns_6_442C3A014E884C180AFDB2A5FFEDFAB7". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.54:845][604]LogScript: Warning: Accessed None trying to read property Ice Cream Reference
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:05F6
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ice Cream Reference". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.54:845][604]LogScript: Warning: Accessed None reading structure Flavor_4_9E6FC888481762B6A26101A5286738F3
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:060B
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Flavor_4_9E6FC888481762B6A26101A5286738F3". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.54:845][604]LogScript: Warning: Accessed None trying to read property Ice Cream Reference
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:065A
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Ice Cream Reference". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.54:845][604]LogScript: Warning: Accessed None reading structure ConeType_2_0941115D485AB1A4E1AE609AB8A86DD3
+	BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+	Function /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C:ExecuteUbergraph_BP_IceCreamChute:066F
+[2025.06.28-21.14.54:845][604]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure ConeType_2_0941115D485AB1A4E1AE609AB8A86DD3". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph BP Ice Cream Chute Blueprint:  BP_IceCreamChute
+[2025.06.28-21.14.56:379][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.14.56:379][748]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.14.56:380][748]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.14.56:386][748]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.14.56:386][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.14.56:386][748]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.14.56:386][748]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.14.56:443][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.14.56:446][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.14.56:458][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.28-21.14.56:458][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.06.28-21.14.56:458][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.06.28-21.14.56:459][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.06.28-21.14.56:464][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.28-21.14.56:631][749]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.06.28-21.15.01:722][318]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-21.15.01:730][318]LogSlate: Window 'Message Log' being destroyed
+[2025.06.28-21.15.15:248][843]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.28-21.15.16:089][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.15.16:095][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-21.15.16:096][923]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.15.16:097][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001900s)
+[2025.06.28-21.15.16:097][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001946s)
+[2025.06.28-21.15.16:109][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.15.16:113][923]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.15.16:114][923]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2025.06.28-21.15.16:119][923]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.15.16:119][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.15.16:119][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.15.16:119][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.15.16:119][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.15.16:119][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.15.16:120][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.15.16:139][923]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.15.16:139][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.15.16:139][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.15.16:139][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.15.16:139][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.06.28-21.15.16:139][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.06.28-21.15.16:142][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.06.28-21.15.16:142][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.06.28-21.15.16:142][923]LogInit: FAudioDevice initialized with ID 24.
+[2025.06.28-21.15.16:142][923]LogAudio: Display: Audio Device (ID: 24) registered with world 'DevMap'.
+[2025.06.28-21.15.16:142][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.06.28-21.15.16:168][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.15.16:168][923]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.15.16:169][923]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.15.16
+[2025.06.28-21.15.16:169][923]LogWorld: Bringing up level for play took: 0.001038
+[2025.06.28-21.15.16:171][923]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2025.06.28-21.15.16:181][923]PIE: Server logged in
+[2025.06.28-21.15.16:183][923]PIE: Play in editor total start time 0.089 seconds.
+[2025.06.28-21.15.19:752][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.15.19:752][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.15.19:752][296]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.15.19:758][296]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.15.19:759][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.15.19:759][296]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.15.19:759][296]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.15.19:817][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.15.19:821][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.15.19:831][296]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.28-21.15.19:831][296]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.06.28-21.15.19:831][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.06.28-21.15.19:833][296]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.06.28-21.15.19:837][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.28-21.15.19:942][297]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2025.06.28-21.15.34:648][898]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13287.226562
+[2025.06.28-21.15.34:731][908]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.15.34:731][909]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13287.301758, Update Interval: 346.134827
+[2025.06.28-21.15.55:772][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.06.28-21.15.55:780][140]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-21.15.55:780][140]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-21.15.55:783][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DevMap_Auto9
+[2025.06.28-21.15.55:783][140]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/DevMap_Auto9602AEABB46C05109DFAA09B9135EB168.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Levels/DevMap_Auto9.umap'
+[2025.06.28-21.15.55:784][140]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Levels/DevMap_Auto9.umap is in the /Temp path, will not scan.
+[2025.06.28-21.15.55:784][140]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/DevMap_Auto9 is in the /Temp path, will not scan.
+[2025.06.28-21.15.55:784][140]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/DevMap_Auto9 is in the /Temp path, will not scan.
+[2025.06.28-21.15.55:786][140]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.023
+[2025.06.28-21.15.55:786][140]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
+[2025.06.28-21.15.55:786][140]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-21.15.55:825][140]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-21.15.55:825][140]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-21.15.55:837][140]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto9
+[2025.06.28-21.15.55:837][140]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChute_Auto9BFCFC5CB418508630E092BBFC6061E06.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/BP_IceCreamChute_Auto9.uasset'
+[2025.06.28-21.15.55:838][140]LogFileHelpers: Auto-saving content packages took 0.053
+[2025.06.28-21.19.35:423][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.28-21.19.36:201][820]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.19.36:207][820]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-21.19.36:207][820]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.19.36:209][820]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002035s)
+[2025.06.28-21.19.36:209][820]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.002066s)
+[2025.06.28-21.19.36:222][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.06.28-21.19.36:226][820]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.19.36:226][820]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2025.06.28-21.19.36:231][820]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.19.36:231][820]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.19.36:232][820]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.19.36:232][820]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.19.36:232][820]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.19.36:232][820]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.19.36:233][820]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.19.36:252][820]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.19.36:252][820]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.19.36:252][820]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.19.36:252][820]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.19.36:253][820]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.06.28-21.19.36:253][820]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.06.28-21.19.36:254][820]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.06.28-21.19.36:254][820]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.06.28-21.19.36:254][820]LogInit: FAudioDevice initialized with ID 25.
+[2025.06.28-21.19.36:254][820]LogAudio: Display: Audio Device (ID: 25) registered with world 'DevMap'.
+[2025.06.28-21.19.36:254][820]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.06.28-21.19.36:273][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.19.36:273][820]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.19.36:274][820]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.19.36
+[2025.06.28-21.19.36:274][820]LogWorld: Bringing up level for play took: 0.000988
+[2025.06.28-21.19.36:276][820]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2025.06.28-21.19.36:285][820]PIE: Server logged in
+[2025.06.28-21.19.36:287][820]PIE: Play in editor total start time 0.082 seconds.
+[2025.06.28-21.19.41:201][363]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.19.41:201][363]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.19.44:829][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.19.44:829][764]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.19.44:831][764]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.19.44:836][764]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.19.44:836][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.19.44:836][764]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.19.44:836][764]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.19.44:896][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.19.44:900][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.19.44:910][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.28-21.19.44:910][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.06.28-21.19.44:910][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.06.28-21.19.44:911][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.06.28-21.19.44:915][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.28-21.19.45:022][765]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2025.06.28-21.20.33:557][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.06.28-21.20.34:959][ 48]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.28-21.20.34:967][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.28-21.20.34:967][ 48]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.20.34:969][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001908s)
+[2025.06.28-21.20.34:969][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DevMap.DevMap to /Game/Levels/UEDPIE_0_DevMap.DevMap (0.001942s)
+[2025.06.28-21.20.34:981][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.28-21.20.34:985][ 48]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2025.06.28-21.20.34:986][ 48]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2025.06.28-21.20.34:991][ 48]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.06.28-21.20.34:991][ 48]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.28-21.20.34:991][ 48]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.28-21.20.34:991][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.28-21.20.34:992][ 48]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.28-21.20.34:992][ 48]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.28-21.20.34:992][ 48]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.28-21.20.34:992][ 48]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.28-21.20.34:992][ 48]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.28-21.20.34:992][ 48]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.28-21.20.34:992][ 48]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.28-21.20.34:992][ 48]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.28-21.20.34:993][ 48]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Line 6 UX2)
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.06.28-21.20.35:013][ 48]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2025.06.28-21.20.35:015][ 48]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.06.28-21.20.35:015][ 48]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.06.28-21.20.35:015][ 48]LogInit: FAudioDevice initialized with ID 26.
+[2025.06.28-21.20.35:015][ 48]LogAudio: Display: Audio Device (ID: 26) registered with world 'DevMap'.
+[2025.06.28-21.20.35:015][ 48]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.06.28-21.20.35:037][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.20.35:037][ 48]LogLoad: Game class is 'GM_Gamemode_C'
+[2025.06.28-21.20.35:038][ 48]LogWorld: Bringing World /Game/Levels/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.06.28-16.20.35
+[2025.06.28-21.20.35:038][ 48]LogWorld: Bringing up level for play took: 0.001009
+[2025.06.28-21.20.35:040][ 48]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2025.06.28-21.20.35:049][ 48]PIE: Server logged in
+[2025.06.28-21.20.35:051][ 48]PIE: Play in editor total start time 0.085 seconds.
+[2025.06.28-21.20.39:955][517]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Toppings' of length 0 in '/Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute_C'!
+[2025.06.28-21.20.39:955][517]LogScript: Warning: Script Msg called by: BP_IceCreamChute_C /Game/Levels/UEDPIE_0_DevMap.DevMap:PersistentLevel.BP_IceCreamChute_C_1
+[2025.06.28-21.20.47:548][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.28-21.20.47:549][263]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_DevMap
+[2025.06.28-21.20.47:549][263]LogSlate: Window 'IceCream Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.06.28-21.20.47:553][263]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.20.47:553][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.20.47:554][263]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.28-21.20.47:554][263]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.28-21.20.47:557][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.28-21.20.47:561][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.20.47:572][263]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.28-21.20.47:573][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.06.28-21.20.47:573][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.06.28-21.20.47:574][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.06.28-21.20.47:579][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-21.20.47:613][264]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2025.06.28-21.20.53:954][993]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.20.53:979][993]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-21.20.53:981][993]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-21.20.53:981][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-21.20.53:988][993]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-21.20.53:989][993]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder06D2BC2E4A14F5BA8B9508AA530FE306.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-21.20.53:998][993]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.641 ms (total: 1.96 sec)
+[2025.06.28-21.20.54:027][993]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.20.54:027][993]LogContentValidation: Enabled validators:
+[2025.06.28-21.20.54:027][993]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.20.54:027][993]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.20.54:027][993]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.20.54:027][993]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-21.20.54:028][993]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-21.20.55:074][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.06.28-21.22.20:583][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13693.164062
+[2025.06.28-21.22.20:667][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.22.20:667][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13693.240234, Update Interval: 342.965179
+[2025.06.28-21.23.02:943][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/TestInteractables/Machines/BP_MixInMachine.BP_MixInMachine
+[2025.06.28-21.23.20:922][714]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.06.28-21.23.20:922][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.23.21:056][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.28-21.23.58:518][172]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.23.58:540][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_PendingOrder] ([2] browsable assets)...
+[2025.06.28-21.23.58:543][172]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder]
+[2025.06.28-21.23.58:543][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_PendingOrder]
+[2025.06.28-21.23.58:549][172]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_PendingOrder
+[2025.06.28-21.23.58:549][172]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_PendingOrder8CFE01CB4D766F8DFBDD1A835ED0ACF5.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset'
+[2025.06.28-21.23.58:556][172]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.789 ms (total: 2.00 sec)
+[2025.06.28-21.23.58:584][172]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.23.58:584][172]LogContentValidation: Enabled validators:
+[2025.06.28-21.23.58:584][172]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.23.58:584][172]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.23.58:584][172]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.23.58:584][172]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_PendingOrder.WID_PendingOrder
+[2025.06.28-21.23.58:584][172]AssetCheck: /Game/Blueprints/TestInteractables/WID_PendingOrder Validating asset
+[2025.06.28-21.23.59:391][260]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.23.59:449][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.28-21.23.59:457][260]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-21.23.59:457][260]LogWorldPartition: Can't find class descriptor '/Game/Levels/DevMap.DevMap_C' for saving '/Game/Levels/DevMap.DevMap_C'
+[2025.06.28-21.23.59:461][260]LogSavePackage: Moving output files for package: /Game/Levels/DevMap
+[2025.06.28-21.23.59:461][260]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/DevMap67BF609646ACC272BF6C27B5D098583C.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Levels/DevMap.umap'
+[2025.06.28-21.23.59:468][260]LogFileHelpers: Saving map 'DevMap' took 0.046
+[2025.06.28-21.23.59:475][260]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.275 ms (total: 2.08 sec)
+[2025.06.28-21.23.59:505][260]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.23.59:505][260]LogContentValidation: Enabled validators:
+[2025.06.28-21.23.59:505][260]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.23.59:505][260]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.23.59:505][260]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.23.59:505][260]LogContentValidation: Display: Validating asset /Game/Levels/DevMap.DevMap
+[2025.06.28-21.23.59:505][260]AssetCheck: /Game/Levels/DevMap Validating asset
+[2025.06.28-21.24.01:193][449]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.24.01:217][449]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-21.24.01:245][449]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-21.24.01:245][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-21.24.01:257][449]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamChute
+[2025.06.28-21.24.01:257][449]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChute9742950B40F6B6AC9B820EBF7A227BC5.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset'
+[2025.06.28-21.24.01:265][449]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.211 ms (total: 2.15 sec)
+[2025.06.28-21.24.01:295][449]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.24.01:295][449]LogContentValidation: Enabled validators:
+[2025.06.28-21.24.01:295][449]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.24.01:295][449]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.24.01:295][449]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.24.01:295][449]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute
+[2025.06.28-21.24.01:295][449]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamChute Validating asset
+[2025.06.28-21.24.18:154][865]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.06.28-21.24.18:163][865]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.06.28-21.24.18:169][865]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.06.28-21.24.18:181][866]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.06.28-21.24.23:100][428]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WID_Score
+[2025.06.28-21.24.23:105][428]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.06.28-21.24.24:495][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.24.24:524][581]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.24.24:526][581]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.24.24:526][581]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.24.24:528][581]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.24.24:528][581]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score6E14884B43D8C16FE3A51B8FD1BF99D0.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.24.24:537][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 42.597 ms (total: 2.19 sec)
+[2025.06.28-21.24.24:558][581]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.24.24:558][581]LogContentValidation: Enabled validators:
+[2025.06.28-21.24.24:558][581]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.24.24:558][581]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.24.24:558][581]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.24.24:558][581]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.24.24:559][581]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.24.31:409][226]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.28.57:814][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.06.28-21.28.57:982][249]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14090.570312
+[2025.06.28-21.28.58:081][261]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.28.58:081][261]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14090.663086, Update Interval: 326.036560
+[2025.06.28-21.29.09:655][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.06.28-21.30.53:687][603]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 7dc...a12
+[2025.06.28-21.30.53:687][603]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.554e+07
+[2025.06.28-21.30.53:801][616]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 7dc...a12 Access[Expires: 2025.06.28-23.30.54 Remaining: 7200.30] Refresh[Expires: 2025-12-25T17:34:11.882Z Remaining: 15537797.88] State: Valid
+[2025.06.28-21.31.05:444][  8]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2025.06.28-21.33.45:294][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.28-21.34.29:103][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-21.34.29:585][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.34.29:614][854]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PlayerCharacter_BP] ([2] browsable assets)...
+[2025.06.28-21.34.29:615][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PlayerCharacter_BP]
+[2025.06.28-21.34.29:630][854]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerCharacter_BP
+[2025.06.28-21.34.29:631][854]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/PlayerCharacter_BPF1CEDAFB4CD8B9C66338E38546DE6B3B.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/PlayerCharacter_BP.uasset'
+[2025.06.28-21.34.29:639][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.482 ms (total: 2.25 sec)
+[2025.06.28-21.34.29:668][854]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.34.29:668][854]LogContentValidation: Enabled validators:
+[2025.06.28-21.34.29:668][854]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.34.29:668][854]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.34.29:668][854]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.34.29:668][854]LogContentValidation: Display: Validating asset /Game/Blueprints/PlayerCharacter_BP.PlayerCharacter_BP
+[2025.06.28-21.34.29:668][854]AssetCheck: /Game/Blueprints/PlayerCharacter_BP Validating asset
+[2025.06.28-21.34.39:535][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.34.39:556][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.34.39:559][898]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.34.39:559][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.34.39:563][898]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.34.39:564][898]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_ScoreCE62E98E4BF0D8FD114E3D9E98DF4490.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.34.39:572][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.601 ms (total: 2.29 sec)
+[2025.06.28-21.34.39:596][898]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.34.39:596][898]LogContentValidation: Enabled validators:
+[2025.06.28-21.34.39:596][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.34.39:596][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.34.39:596][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.34.39:596][898]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.34.39:596][898]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.34.52:064][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.34.52:092][286]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.34.52:092][286]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.34.52:095][286]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.34.52:096][286]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score25C07A5843318FC42142DC93B4B9A85D.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.34.52:105][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 41.193 ms (total: 2.33 sec)
+[2025.06.28-21.34.52:132][286]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.34.52:132][286]LogContentValidation: Enabled validators:
+[2025.06.28-21.34.52:132][286]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.34.52:132][286]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.34.52:132][286]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.34.52:132][286]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.34.52:133][286]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.34.53:336][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.34.53:358][416]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/BP_IceCreamChute] ([2] browsable assets)...
+[2025.06.28-21.34.53:394][416]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute]
+[2025.06.28-21.34.53:394][416]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/BP_IceCreamChute]
+[2025.06.28-21.34.53:407][416]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/BP_IceCreamChute
+[2025.06.28-21.34.53:407][416]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/BP_IceCreamChute72455D40422084E7C167D889C8256283.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset'
+[2025.06.28-21.34.53:417][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.247 ms (total: 2.41 sec)
+[2025.06.28-21.34.53:435][416]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.34.53:435][416]LogContentValidation: Enabled validators:
+[2025.06.28-21.34.53:435][416]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.34.53:435][416]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.34.53:435][416]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.34.53:435][416]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/BP_IceCreamChute.BP_IceCreamChute
+[2025.06.28-21.34.53:437][416]AssetCheck: /Game/Blueprints/TestInteractables/BP_IceCreamChute Validating asset
+[2025.06.28-21.35.16:377][ 21]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14469.032227
+[2025.06.28-21.35.16:466][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.35.16:466][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14469.112305, Update Interval: 329.403961
+[2025.06.28-21.36.00:042][934]LogDerivedDataCache: C:/Users/Chris/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.28-21.36.27:726][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.28-21.36.36:083][120]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 10525564854165367443
+[2025.06.28-21.36.36:084][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.28-21.36.36:092][121]LogSlate: Took 0.000651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.06.28-21.36.36:093][121]LogSlate: Took 0.000659 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.06.28-21.36.36:094][121]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.06.28-21.36.36:095][121]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.06.28-21.36.36:100][121]LogSlate: Took 0.000439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.06.28-21.36.55:292][346]LogSlate: Window 'Color Picker' being destroyed
+[2025.06.28-21.37.11:431][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.28-21.37.11:816][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.37.11:848][176]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.37.11:850][176]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.37.11:850][176]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.37.11:854][176]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.37.11:855][176]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score2F6168A9438164C47927DA8AA0D8FF77.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.37.11:865][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.946 ms (total: 2.46 sec)
+[2025.06.28-21.37.11:889][176]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.37.11:889][176]LogContentValidation: Enabled validators:
+[2025.06.28-21.37.11:889][176]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.37.11:889][176]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.37.11:889][176]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.37.11:889][176]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.37.11:889][176]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.37.25:110][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.28-21.37.25:508][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.37.25:528][744]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.37.25:530][744]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.37.25:530][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.37.25:534][744]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.37.25:534][744]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_ScoreA80598F440145C1F3FC308AC257CCB7C.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.37.25:544][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.840 ms (total: 2.49 sec)
+[2025.06.28-21.37.25:570][744]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.37.25:570][744]LogContentValidation: Enabled validators:
+[2025.06.28-21.37.25:570][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.37.25:570][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.37.25:570][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.37.25:570][744]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.37.25:570][744]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.37.30:685][324]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.06.28-21.37.50:549][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.06.28-21.37.50:941][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.37.50:980][551]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.37.50:982][551]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.37.50:982][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.37.50:986][551]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.37.50:987][551]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score93E9C6AE4D4782438B5E03885ED77F5C.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.37.50:996][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 53.759 ms (total: 2.55 sec)
+[2025.06.28-21.37.51:023][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.37.51:023][551]LogContentValidation: Enabled validators:
+[2025.06.28-21.37.51:023][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.37.51:023][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.37.51:023][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.37.51:023][551]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.37.51:023][551]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.38.29:386][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.28-21.38.29:390][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DevMap' took 0.017
+[2025.06.28-21.38.29:391][310]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.38.29:391][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.38.29:395][310]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/TestInteractables/WID_Score_Auto0
+[2025.06.28-21.38.29:395][310]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score_Auto0EBA7EA014E75A7B165572FAAA14FAF04.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/Autosaves/Game/Blueprints/TestInteractables/WID_Score_Auto0.uasset'
+[2025.06.28-21.38.29:396][310]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.06.28-21.40.26:231][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.06.28-21.41.12:078][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.28-21.41.13:884][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.28-21.41.13:912][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/TestInteractables/WID_Score] ([2] browsable assets)...
+[2025.06.28-21.41.13:914][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/TestInteractables/WID_Score.WID_Score]
+[2025.06.28-21.41.13:914][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/TestInteractables/WID_Score]
+[2025.06.28-21.41.13:918][444]LogSavePackage: Moving output files for package: /Game/Blueprints/TestInteractables/WID_Score
+[2025.06.28-21.41.13:918][444]LogSavePackage: Moving '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Saved/WID_Score1B9FCA474175378BADC2E2B5B08027EE.tmp' to '../../../../../../Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset'
+[2025.06.28-21.41.13:927][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.582 ms (total: 2.59 sec)
+[2025.06.28-21.41.13:960][444]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.28-21.41.13:960][444]LogContentValidation: Enabled validators:
+[2025.06.28-21.41.13:960][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.28-21.41.13:960][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.28-21.41.13:960][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.28-21.41.13:960][444]LogContentValidation: Display: Validating asset /Game/Blueprints/TestInteractables/WID_Score.WID_Score
+[2025.06.28-21.41.13:960][444]AssetCheck: /Game/Blueprints/TestInteractables/WID_Score Validating asset
+[2025.06.28-21.41.33:115][709]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14845.784180
+[2025.06.28-21.41.33:190][718]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.28-21.41.33:190][718]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14845.850586, Update Interval: 324.313477
+[2025.06.28-21.42.57:819][494]LogSlate: Took 0.001484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.06.28-21.43.13:400][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.06.28-21.43.41:108][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
