@@ -7950,3 +7950,13 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2025.06.29-00.58.05:214][610]NetworkingProfiler: Shutdown
 [2025.06.29-00.58.05:214][610]LoadingProfiler: Shutdown
 [2025.06.29-00.58.05:214][610]TimingProfiler: Shutdown
+[2025.06.29-00.58.05:417][610]LogOpenImageDenoise: OIDN shutting down
+[2025.06.29-00.58.06:106][610]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.29-00.58.06:106][610]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B937BDDAE-4673-DF4C-E029-9EB7A6BEC87F%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=f40798054d27f9a0ab3189b573e5ffb2%7Cd9446345c93c422bb8ffd2f33148f40d%7C2276c75a-ca43-42b7-a8db-65b041f5cd3d&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.29-00.58.06:123][610]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.06.29-00.58.06:123][610]RenderDocPlugin: plugin has been unloaded.
+[2025.06.29-00.58.06:134][610]LogXGEController: Cleaning working directory: C:/Users/weave/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.06.29-00.58.06:139][610]LogPakFile: Destroying PakPlatformFile
+[2025.06.29-00.58.06:665][610]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.29-00.58.06:689][610]LogExit: Exiting.
+[2025.06.29-00.58.06:718][610]Log file closed, 06/28/25 19:58:06
