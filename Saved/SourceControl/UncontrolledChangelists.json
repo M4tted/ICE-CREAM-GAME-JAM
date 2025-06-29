@@ -5,49 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Machines/BP_IceCreamMachine.uasset",
-				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Levels/LevelDesign.umap",
-				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_Score.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Levels/DevMap.umap",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Interfaces/BPI_Interactions.uasset",
-=======
->>>>>>> main
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/PlayerCharacter_BP.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Machines/BP_TestActor.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Levels/LevelDesign.umap",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Machines/BP_IceCreamMachine.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/cakeCone.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/Cones/BP_Cone1.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/Cones/BP_Cone2.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/coneTemp.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_FishCream.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_BroccoliCream.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_Coffee.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_SalamiCream.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_VanillaCream1.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/IceCreamFlavors/BP_IceCream1.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/MixIns/BP_Cubes.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/MixIns/BP_Mixin1.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/MixIns/BP_Reeces.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/Ingredients/MixIns/BP_CookieDough.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_IceCreamChute.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/WID_PendingOrder.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/Corporate_Bunker.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/Door_Open.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/TicketPickUp.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/Item_PickUp.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/EnteringGame.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/ShuteComplete.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/Door/Door.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/standardSurface1.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/standardSurface2.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/standardSurface3.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/standardSurface4.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/TestInteractables/BP_Radio.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Audio/MainMenu.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/TempMeshes/radioTemp.uasset",
-				"C:/Users/Chris/Documents/Unreal Projects/MyProject3/ICE-CREAM-GAME-JAM/Content/Blueprints/GM_MainMenu.uasset"
+				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Audio/robot_Reboot.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Audio/robot_Shutdown.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Audio/Corporate_Bunker.uasset",
+				"C:/Users/MattS/OneDrive/Desktop/GAMEDEV/Unreal Engine/Game Jams/Ice Cream/ICE-CREAM-GAME-JAM/Repo/ICE-CREAM-GAME-JAM/Content/Levels/LevelDesign.umap"
 			]
 		}
 	]
